@@ -1,11 +1,11 @@
 # 16S_microbiome_analysis_MPhil-BACG-project
 
 
-This repository contains scripts, outputs, and documentation related to my MPhil thesis project in the field of Biodata Analytics and Computational Genomics, with a focus on microbial community profiling and functional inference in traditional Ghanaian fermented maize-based foods. The analysis was conducted using 16S rRNA gene amplicon sequencing data, with bioinformatics pipelines implemented in QIIME2 and downstream statistical analyses and visualizations performed in R.
+This repository contains scripts, outputs, and documentation related to my MPhil thesis project in the field of Biodata Analytics and Computational Genomics, with a focus on microbial community profiling and functional inference in traditional African fermented maize-based foods. The analysis was conducted using 16S rRNA gene amplicon sequencing data, with bioinformatics pipelines implemented in QIIME2 and downstream statistical analyses and visualizations performed in R.
 
 ## 📘 Project Overview
 
-The project investigates the taxonomic composition, alpha and beta diversity, and functional capacities of bacterial communities associated with two traditional fermented maize foods — Ga Kenkey and Fante Kenkey. Amplicon Sequence Variant (ASV)-based analysis was performed using DADA2 in QIIME2, followed by taxonomic classification with the SILVA 138 database. Predictive functional profiling was carried out using PICRUSt2, and extensive visualizations were generated using R (v4.4.2) and various tidyverse and microbiome analysis packages.
+The project investigates the taxonomic composition, alpha and beta diversity, and functional capacities of bacterial communities associated with African fermented maize-based foods. Amplicon Sequence Variant (ASV)-based analysis was performed using DADA2 in QIIME2, followed by taxonomic classification with the SILVA 138 database. Predictive functional profiling was carried out using PICRUSt2, and extensive visualizations were generated using R (v4.4.2) and various tidyverse and microbiome analysis packages.
 
 ## 🧪 Main Analyses and Features
 
