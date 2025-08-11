@@ -1,0 +1,18 @@
+sbatch submit_qiime_maize.slurm
+
+#Monitor Job Status:
+squeue -j 2456337
+#or:
+squeue -u $USER
+
+
+
+#Check Job Logs (after start or completion):
+#Assuming your script writes logs to the logs/ directory:
+cat /work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/logs/qiime_maize_2456337.out
+cat /work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/logs/qiime_maize_2456337.err
+
+#Check Output Location:
+#If your job completes successfully, results should appear in:
+/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/output/
+

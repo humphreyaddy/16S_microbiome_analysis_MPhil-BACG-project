@@ -1,0 +1,7 @@
+Sample_code,isolation_source,Run,Product_name,Raw_material,Fermentation_group,Country,Production_conditions,DNA concentration (ng/μl),,AvgSpotLen,Bases,Bytes,Collection_Date,geo_loc_name,lat_lon,Library Name,create_date
+S19,Maize dough,SRR8901464,Maize dough,Maize,Cereal,Ghana,Artisanal,250,,399,34845985,19327990,2018-02,Ghana,5.60 N 0.18 W,MaizD,2019-04-15T15:47:00Z
+S37,Dehulled maize dough,SRR8901463,Dehulled maize dough,Dehulled maize,Cereal,Ghana,Commercial,23.8,,399,36577043,19427031,2018-02,Ghana,5.60 N 0.18 W,DMaizD0,2019-04-15T15:47:00Z
+S38,Dehulled maize dough fermented 12h,SRR8901489,Dehulled maize dough,Dehulled maize,Cereal,Ghana,Commercial,21.6,,399,32210316,17120719,2018-02,Ghana,5.60 N 0.18 W,DMaizD12,2019-04-15T15:47:00Z
+S4,Ogi from maize,SRR8901481,Ogi,Yellow maize,Cereal,Nigeria,Artisanal,434,,399,33976600,18714704,2018-02,Nigeria,6.52 N 3.37 E,MaizOgi,2019-04-15T15:47:00Z
+S5,Mawe from maize fermented 12h,SRR8901482,Mawe,Maize,Cereal,Benin,Commercial,224,,399,38155681,20547778,2018-02,Benin,6.49 N 2.62 E,MaMawe12,2019-04-15T15:47:00Z
+S6,Mawe from maize fermented 48h,SRR8901483,Mawe,Maize,Cereal,Benin,Commercial,195,,399,36322492,19296317,2018-02,Benin,6.49 N 2.62 E,MaMawe48,2019-04-15T15:47:00Z

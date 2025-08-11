@@ -1,0 +1,48 @@
+#Install QIIME2 for amplicon sequencing
+#Install PICRUSt2
+#Download a SILVA-138 database
+
+
+#Install these R Packages
+# CRAN packages (installable directly from CRAN)
+install.packages(c(
+  "ggplot2",
+  "phyloseq",
+  "plotly",
+  "vegan",
+  "tidyverse",
+  "adespatial",
+  "DECIPHER",
+  "ape",
+  "DESeq2",
+  "MicrobeR",
+  "microbiome",
+  "microbiomeSeq",
+  "pander",
+  "grid",
+  "gridExtra",
+  "knitr",
+  "png",
+  "ggdendro",
+  "ggpubr",
+  "RColorBrewer",
+  "networkD3",
+  "scales",
+  "ggrepel",
+  "pheatmap",
+  "readr",
+  "ggfittext"
+))
+
+
+#To install GitHub packages: First, you need to have devtools installed. If you don't already have it, install it with:
+install.packages("devtools")
+
+# Packages that require devtools and are installed from GitHub
+devtools::install_github(c(
+  "microbiomeutilities/microbiomeutilities",
+  "qiime2R/qiime2R",
+  "ranacapa/ranacapa",
+  "philr/philr"
+))
+

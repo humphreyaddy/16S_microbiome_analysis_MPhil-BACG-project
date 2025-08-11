@@ -1,0 +1,13 @@
+Sample	adapter_content	Sequences flagged as poor quality	sequence_duplication_levels	avg_sequence_length	Encoding	per_base_sequence_quality	Total Bases	Sequence length	File type	basic_statistics	per_sequence_gc_content	sequence_length_distribution	Total Sequences	per_base_n_content	per_base_sequence_content	overrepresented_sequences	%GC	total_deduplicated_percentage	Filename	per_sequence_quality_scores
+S19_Fermented_maize_1	pass	0.0	fail	199.997635337	Sanger / Illumina 1.9	pass	17.4 Mbp	34-200	Conventional base calls	pass	fail	warn	87116.0	pass	fail	fail	51.0	2.80775058543	S19_Fermented_maize_1.fastq.gz	pass
+S19_Fermented_maize_2	pass	0.0	fail	199.997577942	Sanger / Illumina 1.9	pass	17.4 Mbp	21-200	Conventional base calls	pass	fail	warn	87116.0	pass	fail	fail	52.0	2.7790532164	S19_Fermented_maize_2.fastq.gz	pass
+S37_Fermented_Maiz_1	pass	0.0	fail	199.987632586	Sanger / Illumina 1.9	pass	18.2 Mbp	33-200	Conventional base calls	pass	fail	warn	91450.0	pass	fail	fail	50.0	3.29797703663	S37_Fermented_Maiz_1.fastq.gz	pass
+S37_Fermented_Maiz_2	pass	0.0	fail	199.98006561	Sanger / Illumina 1.9	pass	18.2 Mbp	21-200	Conventional base calls	pass	fail	warn	91450.0	pass	fail	fail	51.0	3.15691634773	S37_Fermented_Maiz_2.fastq.gz	pass
+S38_D_Maize_1	pass	0.0	fail	199.985335386	Sanger / Illumina 1.9	pass	16.1 Mbp	33-200	Conventional base calls	pass	fail	warn	80534.0	pass	fail	fail	50.0	3.22472496089	S38_D_Maize_1.fastq.gz	pass
+S38_D_Maize_2	pass	0.0	fail	199.973837137	Sanger / Illumina 1.9	pass	16.1 Mbp	19-200	Conventional base calls	pass	fail	warn	80534.0	pass	fail	fail	50.0	3.20609928726	S38_D_Maize_2.fastq.gz	pass
+S4_Ogi_1	pass	0.0	fail	199.998940466	Sanger / Illumina 1.9	pass	16.9 Mbp	158-200	Conventional base calls	pass	fail	warn	84943.0	pass	fail	fail	51.0	3.20803362255	S4_Ogi_1.fastq.gz	pass
+S4_Ogi_2	pass	0.0	fail	199.993960656	Sanger / Illumina 1.9	pass	16.9 Mbp	41-200	Conventional base calls	pass	fail	warn	84943.0	pass	fail	fail	52.0	2.88899615036	S4_Ogi_2.fastq.gz	pass
+S5_Mawe_1	pass	0.0	fail	199.99990565	Sanger / Illumina 1.9	pass	19 Mbp	191-200	Conventional base calls	pass	fail	warn	95390.0	pass	fail	fail	50.0	2.52332529615	S5_Mawe_1.fastq.gz	pass
+S5_Mawe_2	pass	0.0	fail	199.996760667	Sanger / Illumina 1.9	pass	19 Mbp	41-200	Conventional base calls	pass	fail	warn	95390.0	pass	fail	fail	51.0	2.33043295943	S5_Mawe_2.fastq.gz	pass
+S6_Mawe_1	pass	0.0	fail	199.998260046	Sanger / Illumina 1.9	pass	18.1 Mbp	42-200	Conventional base calls	pass	fail	warn	90807.0	pass	fail	fail	50.0	2.48879491669	S6_Mawe_1.fastq.gz	pass
+S6_Mawe_2	pass	0.0	fail	199.99837017	Sanger / Illumina 1.9	pass	18.1 Mbp	50-200	Conventional base calls	pass	fail	warn	90807.0	pass	fail	fail	51.0	2.25533273867	S6_Mawe_2.fastq.gz	pass

@@ -1,0 +1,8 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+S19_Fermented_maize	/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/S19_Fermented_maize_1.fastq.gz	/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/S19_Fermented_maize_2.fastq.gz
+S37_Fermented_Maiz	/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/S37_Fermented_Maiz_1.fastq.gz	/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/S37_Fermented_Maiz_2.fastq.gz
+S38_D_Maize	/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/S38_D_Maize_1.fastq.gz	/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/S38_D_Maize_2.fastq.gz
+S4_Ogi	/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/S4_Ogi_1.fastq.gz	/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/S4_Ogi_2.fastq.gz
+S5_Mawe	/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/S5_Mawe_1.fastq.gz	/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/S5_Mawe_2.fastq.gz
+S6_Mawe	/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/S6_Mawe_1.fastq.gz	/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/S6_Mawe_2.fastq.gz
+

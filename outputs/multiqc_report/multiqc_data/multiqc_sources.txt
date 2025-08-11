@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	S5_Mawe_1	/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/QC_init/S5_Mawe_1_fastqc.zip
+FastQC	all_sections	S5_Mawe_2	/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/QC_init/S5_Mawe_2_fastqc.zip
+FastQC	all_sections	S38_D_Maize_2	/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/QC_init/S38_D_Maize_2_fastqc.zip
+FastQC	all_sections	S38_D_Maize_1	/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/QC_init/S38_D_Maize_1_fastqc.zip
+FastQC	all_sections	S19_Fermented_maize_1	/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/QC_init/S19_Fermented_maize_1_fastqc.zip
+FastQC	all_sections	S19_Fermented_maize_2	/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/QC_init/S19_Fermented_maize_2_fastqc.zip
+FastQC	all_sections	S37_Fermented_Maiz_1	/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/QC_init/S37_Fermented_Maiz_1_fastqc.zip
+FastQC	all_sections	S6_Mawe_1	/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/QC_init/S6_Mawe_1_fastqc.zip
+FastQC	all_sections	S6_Mawe_2	/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/QC_init/S6_Mawe_2_fastqc.zip
+FastQC	all_sections	S37_Fermented_Maiz_2	/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/QC_init/S37_Fermented_Maiz_2_fastqc.zip
+FastQC	all_sections	S4_Ogi_2	/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/QC_init/S4_Ogi_2_fastqc.zip
+FastQC	all_sections	S4_Ogi_1	/work/10451/humphrey_addy/ls6/16S_raw_data/maize_only_16S_data/QC_init/S4_Ogi_1_fastqc.zip

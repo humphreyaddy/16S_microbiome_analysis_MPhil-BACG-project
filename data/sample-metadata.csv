@@ -1,0 +1,7 @@
+sample-id	food-type	isolation_source	Product_name	Raw_material	Fermentation_group	Country	Production_conditions	geo_loc_name
+S19_Fermented_maize	S19_Fermented_maize	Maize_dough	Maize_dough	Maize	Cereal	Ghana	Artisanal	Ghana
+S37_Fermented_Maiz	S37_Fermented_Maiz	Dehulled_maize_dough	Dehulled_maize_dough	Dehulled_maize	Cereal	Ghana	Commercial	Ghana
+S38_D_Maize	S38_D_Maize	Dehulled_maize_dough_fermented_12h	Dehulled_maize_dough	Dehulled_maize	Cereal	Ghana	Commercial	Ghana
+S4_Ogi	S4_Ogi	Ogi_from_maize	Ogi	Yellow_maize	Cereal	Nigeria	Artisanal	Nigeria
+S5_Mawe	S5_Mawe	Mawe_from_maize_fermented_12h	Mawe	Maize	Cereal	Benin	Commercial	Benin
+S6_Mawe	S6_Mawe	Mawe_from_maize_fermented_48h	Mawe	Maize	Cereal	Benin	Commercial	Benin
