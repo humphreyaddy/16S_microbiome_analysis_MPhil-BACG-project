@@ -17,16 +17,6 @@ The project investigates the taxonomic composition, alpha and beta diversity, an
 - **Comparative Analysis**: Insights into microbial and functional differences between Ga and Fante Kenkey
 - **Publication-Ready Figures**: All figures are generated using `ggplot2`, `phyloseq`, `qiime2R`, and other R packages, and are available in high-resolution PNG format
 
-## 📁 Repository Structure
-📦16S_microbiome_analysis_MPhil-BACG-project/
-├── data/           # Input datasets (QIIME2 artifacts, metadata, etc.)
-├── scripts/        # R scripts for visualization and statistical analysis
-├── figures/        # Output plots used in the thesis
-├── outputs/        # CSV files of computed metrics and intermediate outputs
-├── README.md       # Project overview and documentation
-└── requirements.txt # R package dependencies (optional)
-
-
 
 
 ## 📊 Key Tools and Packages
