@@ -19,12 +19,13 @@ The project investigates the taxonomic composition, alpha and beta diversity, an
 
 ## 📁 Repository Structure
 📦16S_microbiome_analysis_MPhil-BACG-project/
-┣ 📂data/ # Input datasets (QIIME2 artifacts, metadata, etc.)
-┣ 📂scripts/ # R scripts for visualisation and statistical analysis
-┣ 📂figures/ # Output plots used in the thesis
-┣ 📂outputs/ # CSV files of computed metrics and intermediate outputs
-┣ 📜README.md # Project overview and documentation
-┗ 📜requirements.txt # R package dependencies (optional)
+├── data/           # Input datasets (QIIME2 artifacts, metadata, etc.)
+├── scripts/        # R scripts for visualization and statistical analysis
+├── figures/        # Output plots used in the thesis
+├── outputs/        # CSV files of computed metrics and intermediate outputs
+├── README.md       # Project overview and documentation
+└── requirements.txt # R package dependencies (optional)
+
 
 
 
